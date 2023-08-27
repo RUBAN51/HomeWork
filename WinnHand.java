@@ -1,3 +1,5 @@
+//window handling
+
 package org.selenium.practice1;
 
 import java.io.FileInputStream;

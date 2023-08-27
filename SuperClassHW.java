@@ -1,3 +1,5 @@
+//defining a superclass person and creating a constructor and getter setter methods
+
 package homeworks;
 class Person{
 	public Person(){

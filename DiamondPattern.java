@@ -1,3 +1,5 @@
+//diamond star pattern
+
 package homeworks;
 
 public class DiamondPattern {

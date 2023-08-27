@@ -1,4 +1,4 @@
-//abstract class
+//abstract class 
 
 package homeworks;
 

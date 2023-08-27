@@ -1,3 +1,5 @@
+//accessing variables of another class with instance
+
 package homeworks;
 class Employee{
 	public String EmpName;

@@ -1,3 +1,5 @@
+//reversing a string without using reverse methhod
+
 package homeworks;
 
 import java.util.Scanner;

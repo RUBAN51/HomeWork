@@ -1,3 +1,5 @@
+//Creating a Class with name School where teacher can see all the info bu student can't
+
 package homeworks;
 class School{
 	String name;

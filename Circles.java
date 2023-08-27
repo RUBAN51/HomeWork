@@ -1,3 +1,5 @@
+//abstract class
+
 package homeworks;
 
 import java.util.Scanner;
